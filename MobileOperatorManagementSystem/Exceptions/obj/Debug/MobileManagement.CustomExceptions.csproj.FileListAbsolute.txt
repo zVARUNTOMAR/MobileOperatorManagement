@@ -1,0 +1,6 @@
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\obj\Debug\MobileManagement.CustomExceptions.csprojAssemblyReference.cache
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\obj\Debug\MobileManagement.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\R3CK3R\Desktop\MobileOperatorManagementSystem\MobileOperatorManagementSystem\Exceptions\obj\Debug\Exceptions.pdb
